@@ -2,8 +2,8 @@ from skimage import measure
 import cv2
 import os
 
-path1 = "D:/pycpython/image/A/Rain100"
-path2 = "D:/pycpython/image/A/Rain100HA21"
+path1 = "D:/Rain100"
+path2 = "D:/Rain100H"
 ssim_1 = 0
 psnr_1 = 0
 
